@@ -1,0 +1,1255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="94" total="94" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="WNPRegressionSuite" duration-ms="49204" started-at="2022-06-01T15:36:20 IST" finished-at="2022-06-01T15:37:09 IST">
+    <groups>
+      <group name="CompleteRegressionSuite">
+        <method signature="SmokeTests.testMethod_SmokeTests(org.testng.ITestContext)[pri:0, instance:com.telus.wnp.tests.SmokeTests@591e58fa]" name="testMethod_SmokeTests" class="com.telus.wnp.tests.SmokeTests"/>
+      </group> <!-- CompleteRegressionSuite -->
+      <group name="SanityTests">
+        <method signature="SmokeTests.testMethod_SmokeTests(org.testng.ITestContext)[pri:0, instance:com.telus.wnp.tests.SmokeTests@591e58fa]" name="testMethod_SmokeTests" class="com.telus.wnp.tests.SmokeTests"/>
+      </group> <!-- SanityTests -->
+      <group name="SmokeTests">
+        <method signature="SmokeTests.testMethod_SmokeTests(org.testng.ITestContext)[pri:0, instance:com.telus.wnp.tests.SmokeTests@591e58fa]" name="testMethod_SmokeTests" class="com.telus.wnp.tests.SmokeTests"/>
+      </group> <!-- SmokeTests -->
+    </groups>
+    <test name="WNPRegressionTests" duration-ms="49204" started-at="2022-06-01T15:36:20 IST" finished-at="2022-06-01T15:37:09 IST">
+      <class name="com.telus.wnp.tests.SmokeTests">
+        <test-method status="PASS" signature="BeforeMethod(org.testng.ITestContext)[pri:0, instance:com.telus.wnp.tests.SmokeTests@591e58fa]" name="BeforeMethod" is-config="true" duration-ms="2" started-at="2022-06-01T15:36:20 IST" finished-at="2022-06-01T15:36:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@239b0f7c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+      </class> <!-- com.telus.wnp.tests.SmokeTests -->
+      <class name="com.telus.wnp.tests.WLSC_169268_WNP_REG_SendCancellationtoESP">
+        <test-method status="PASS" signature="BeforeMethod(org.testng.ITestContext)[pri:0, instance:com.telus.wnp.tests.WLSC_169268_WNP_REG_SendCancellationtoESP@2416a51]" name="BeforeMethod" is-config="true" duration-ms="2" started-at="2022-06-01T15:36:20 IST" finished-at="2022-06-01T15:36:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@239b0f7c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+      </class> <!-- com.telus.wnp.tests.WLSC_169268_WNP_REG_SendCancellationtoESP -->
+      <class name="com.telus.wnp.tests.WLSWNP_1189_2FA_PortOutToWLNFromLSR">
+        <test-method status="PASS" signature="BeforeMethod(org.testng.ITestContext)[pri:0, instance:com.telus.wnp.tests.WLSWNP_1189_2FA_PortOutToWLNFromLSR@7997b197]" name="BeforeMethod" is-config="true" duration-ms="1" started-at="2022-06-01T15:36:20 IST" finished-at="2022-06-01T15:36:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@239b0f7c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+      </class> <!-- com.telus.wnp.tests.WLSWNP_1189_2FA_PortOutToWLNFromLSR -->
+      <class name="com.telus.wnp.tests.uReportTestClass2">
+        <test-method status="PASS" signature="BeforeMethod(org.testng.ITestContext)[pri:0, instance:com.telus.wnp.tests.uReportTestClass2@72ccd81a]" name="BeforeMethod" is-config="true" duration-ms="2" started-at="2022-06-01T15:36:20 IST" finished-at="2022-06-01T15:36:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@239b0f7c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+      </class> <!-- com.telus.wnp.tests.uReportTestClass2 -->
+      <class name="com.telus.wnp.tests.WLSC_169272_WNP_REG_ReceiveCancelESPFDate">
+        <test-method status="PASS" signature="BeforeMethod(org.testng.ITestContext)[pri:0, instance:com.telus.wnp.tests.WLSC_169272_WNP_REG_ReceiveCancelESPFDate@7bf9b098]" name="BeforeMethod" is-config="true" duration-ms="2" started-at="2022-06-01T15:36:20 IST" finished-at="2022-06-01T15:36:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@239b0f7c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+      </class> <!-- com.telus.wnp.tests.WLSC_169272_WNP_REG_ReceiveCancelESPFDate -->
+      <class name="com.telus.wnp.tests.WLSC_169260_WNP_REG_ConfirmModifyFromNSP">
+        <test-method status="PASS" signature="BeforeMethod(org.testng.ITestContext)[pri:0, instance:com.telus.wnp.tests.WLSC_169260_WNP_REG_ConfirmModifyFromNSP@3c9168dc]" name="BeforeMethod" is-config="true" duration-ms="3" started-at="2022-06-01T15:36:20 IST" finished-at="2022-06-01T15:36:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@239b0f7c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+      </class> <!-- com.telus.wnp.tests.WLSC_169260_WNP_REG_ConfirmModifyFromNSP -->
+      <class name="com.telus.wnp.tests.WLSWNP_585_WNP_REG_KoodoPPToPublicMobile">
+        <test-method status="PASS" signature="BeforeMethod(org.testng.ITestContext)[pri:0, instance:com.telus.wnp.tests.WLSWNP_585_WNP_REG_KoodoPPToPublicMobile@770d4269]" name="BeforeMethod" is-config="true" duration-ms="1" started-at="2022-06-01T15:36:20 IST" finished-at="2022-06-01T15:36:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@239b0f7c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+      </class> <!-- com.telus.wnp.tests.WLSWNP_585_WNP_REG_KoodoPPToPublicMobile -->
+      <class name="com.telus.wnp.tests.WLSWNP_589_WNP_REG_PortInCancelFromSOA">
+        <test-method status="PASS" signature="BeforeMethod(org.testng.ITestContext)[pri:0, instance:com.telus.wnp.tests.WLSWNP_589_WNP_REG_PortInCancelFromSOA@6bab2585]" name="BeforeMethod" is-config="true" duration-ms="2" started-at="2022-06-01T15:36:20 IST" finished-at="2022-06-01T15:36:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@239b0f7c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+      </class> <!-- com.telus.wnp.tests.WLSWNP_589_WNP_REG_PortInCancelFromSOA -->
+      <class name="com.telus.wnp.tests.WLSC_169261_WNP_REG_TelusToForeignGUISUP1">
+        <test-method status="PASS" signature="BeforeMethod(org.testng.ITestContext)[pri:0, instance:com.telus.wnp.tests.WLSC_169261_WNP_REG_TelusToForeignGUISUP1@332a7fce]" name="BeforeMethod" is-config="true" duration-ms="1" started-at="2022-06-01T15:36:20 IST" finished-at="2022-06-01T15:36:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@239b0f7c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+      </class> <!-- com.telus.wnp.tests.WLSC_169261_WNP_REG_TelusToForeignGUISUP1 -->
+      <class name="com.telus.wnp.tests.WLSC_169214_WNP_REG_CancelWLNPortinPending">
+        <test-method status="PASS" signature="BeforeMethod(org.testng.ITestContext)[pri:0, instance:com.telus.wnp.tests.WLSC_169214_WNP_REG_CancelWLNPortinPending@493dfb8e]" name="BeforeMethod" is-config="true" duration-ms="2" started-at="2022-06-01T15:36:20 IST" finished-at="2022-06-01T15:36:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@239b0f7c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+      </class> <!-- com.telus.wnp.tests.WLSC_169214_WNP_REG_CancelWLNPortinPending -->
+      <class name="com.telus.wnp.tests.WLSC_169215_WNP_REG_CancelWLNToTelusPortin">
+        <test-method status="PASS" signature="BeforeMethod(org.testng.ITestContext)[pri:0, instance:com.telus.wnp.tests.WLSC_169215_WNP_REG_CancelWLNToTelusPortin@5d25e6bb]" name="BeforeMethod" is-config="true" duration-ms="2" started-at="2022-06-01T15:36:20 IST" finished-at="2022-06-01T15:36:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@239b0f7c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+      </class> <!-- com.telus.wnp.tests.WLSC_169215_WNP_REG_CancelWLNToTelusPortin -->
+      <class name="com.telus.wnp.tests.WLSC_169290_WNP_REG_ForeignToPMICPTimerEx">
+        <test-method status="PASS" signature="BeforeMethod(org.testng.ITestContext)[pri:0, instance:com.telus.wnp.tests.WLSC_169290_WNP_REG_ForeignToPMICPTimerEx@18e7143f]" name="BeforeMethod" is-config="true" duration-ms="2" started-at="2022-06-01T15:36:20 IST" finished-at="2022-06-01T15:36:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@239b0f7c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+      </class> <!-- com.telus.wnp.tests.WLSC_169290_WNP_REG_ForeignToPMICPTimerEx -->
+      <class name="com.telus.wnp.tests.WLSC_169212_WNP_REG_AnHYCancelFromPAC">
+        <test-method status="PASS" signature="BeforeMethod(org.testng.ITestContext)[pri:0, instance:com.telus.wnp.tests.WLSC_169212_WNP_REG_AnHYCancelFromPAC@6d8792db]" name="BeforeMethod" is-config="true" duration-ms="2" started-at="2022-06-01T15:36:20 IST" finished-at="2022-06-01T15:36:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@239b0f7c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+      </class> <!-- com.telus.wnp.tests.WLSC_169212_WNP_REG_AnHYCancelFromPAC -->
+      <class name="com.telus.wnp.tests.WLSC_169258_WNP_REG_ConfirmCancelFromSOA">
+        <test-method status="PASS" signature="BeforeMethod(org.testng.ITestContext)[pri:0, instance:com.telus.wnp.tests.WLSC_169258_WNP_REG_ConfirmCancelFromSOA@72f46e16]" name="BeforeMethod" is-config="true" duration-ms="1" started-at="2022-06-01T15:36:20 IST" finished-at="2022-06-01T15:36:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@239b0f7c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+      </class> <!-- com.telus.wnp.tests.WLSC_169258_WNP_REG_ConfirmCancelFromSOA -->
+      <class name="com.telus.wnp.tests.TDM_Prevalidation">
+        <test-method status="PASS" signature="BeforeMethod(org.testng.ITestContext)[pri:0, instance:com.telus.wnp.tests.TDM_Prevalidation@2f94c4db]" name="BeforeMethod" is-config="true" duration-ms="2" started-at="2022-06-01T15:36:20 IST" finished-at="2022-06-01T15:36:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@239b0f7c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+      </class> <!-- com.telus.wnp.tests.TDM_Prevalidation -->
+      <class name="com.telus.wnp.tests.WLSWNP_588_WNP_REG_ForeignToTelusCorp">
+        <test-method status="PASS" signature="BeforeMethod(org.testng.ITestContext)[pri:0, instance:com.telus.wnp.tests.WLSWNP_588_WNP_REG_ForeignToTelusCorp@76a82f33]" name="BeforeMethod" is-config="true" duration-ms="2" started-at="2022-06-01T15:36:20 IST" finished-at="2022-06-01T15:36:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@239b0f7c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+      </class> <!-- com.telus.wnp.tests.WLSWNP_588_WNP_REG_ForeignToTelusCorp -->
+      <class name="com.telus.wnp.tests.WLSC_169269_WNP_REG_ReceiveCancelfromESP">
+        <test-method status="PASS" signature="BeforeMethod(org.testng.ITestContext)[pri:0, instance:com.telus.wnp.tests.WLSC_169269_WNP_REG_ReceiveCancelfromESP@6fa590ba]" name="BeforeMethod" is-config="true" duration-ms="0" started-at="2022-06-01T15:36:20 IST" finished-at="2022-06-01T15:36:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@239b0f7c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+      </class> <!-- com.telus.wnp.tests.WLSC_169269_WNP_REG_ReceiveCancelfromESP -->
+      <class name="com.telus.wnp.tests.WLSC_169287_WNP_REG_WinbackOrResume">
+        <test-method status="PASS" signature="BeforeMethod(org.testng.ITestContext)[pri:0, instance:com.telus.wnp.tests.WLSC_169287_WNP_REG_WinbackOrResume@2c177f9e]" name="BeforeMethod" is-config="true" duration-ms="2" started-at="2022-06-01T15:36:20 IST" finished-at="2022-06-01T15:36:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@239b0f7c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+      </class> <!-- com.telus.wnp.tests.WLSC_169287_WNP_REG_WinbackOrResume -->
+      <class name="com.telus.wnp.tests.WLSC_169263_WNP_REG_TelusToForeign8H">
+        <test-method status="PASS" signature="BeforeMethod(org.testng.ITestContext)[pri:0, instance:com.telus.wnp.tests.WLSC_169263_WNP_REG_TelusToForeign8H@54361a9]" name="BeforeMethod" is-config="true" duration-ms="2" started-at="2022-06-01T15:36:20 IST" finished-at="2022-06-01T15:36:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@239b0f7c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+      </class> <!-- com.telus.wnp.tests.WLSC_169263_WNP_REG_TelusToForeign8H -->
+      <class name="com.telus.wnp.tests.WLSC_169283_PRE2POST_Migration">
+        <test-method status="PASS" signature="BeforeMethod(org.testng.ITestContext)[pri:0, instance:com.telus.wnp.tests.WLSC_169283_PRE2POST_Migration@33617539]" name="BeforeMethod" is-config="true" duration-ms="1" started-at="2022-06-01T15:36:20 IST" finished-at="2022-06-01T15:36:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@239b0f7c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+      </class> <!-- com.telus.wnp.tests.WLSC_169283_PRE2POST_Migration -->
+      <class name="com.telus.wnp.tests.WLSC_169388_WNP_REG_PortOutRejection9B">
+        <test-method status="PASS" signature="BeforeMethod(org.testng.ITestContext)[pri:0, instance:com.telus.wnp.tests.WLSC_169388_WNP_REG_PortOutRejection9B@6b5176f2]" name="BeforeMethod" is-config="true" duration-ms="1" started-at="2022-06-01T15:36:20 IST" finished-at="2022-06-01T15:36:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@239b0f7c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+      </class> <!-- com.telus.wnp.tests.WLSC_169388_WNP_REG_PortOutRejection9B -->
+      <class name="com.telus.wnp.tests.WLSC_169267_WNP_REG_SendCancelESPFallOut">
+        <test-method status="PASS" signature="BeforeMethod(org.testng.ITestContext)[pri:0, instance:com.telus.wnp.tests.WLSC_169267_WNP_REG_SendCancelESPFallOut@293bb8a5]" name="BeforeMethod" is-config="true" duration-ms="2" started-at="2022-06-01T15:36:20 IST" finished-at="2022-06-01T15:36:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@239b0f7c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+      </class> <!-- com.telus.wnp.tests.WLSC_169267_WNP_REG_SendCancelESPFallOut -->
+      <class name="com.telus.wnp.tests.MSSPartnersPageTest_BR2">
+        <test-method status="PASS" signature="BeforeMethod(org.testng.ITestContext)[pri:0, instance:com.telus.wnp.tests.MSSPartnersPageTest_BR2@62dae245]" name="BeforeMethod" is-config="true" duration-ms="1" started-at="2022-06-01T15:36:20 IST" finished-at="2022-06-01T15:36:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@239b0f7c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+      </class> <!-- com.telus.wnp.tests.MSSPartnersPageTest_BR2 -->
+      <class name="com.telus.wnp.tests.MSSPartnersPageTest_BR3">
+        <test-method status="PASS" signature="BeforeMethod(org.testng.ITestContext)[pri:0, instance:com.telus.wnp.tests.MSSPartnersPageTest_BR3@4b6579e8]" name="BeforeMethod" is-config="true" duration-ms="3" started-at="2022-06-01T15:36:20 IST" finished-at="2022-06-01T15:36:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@239b0f7c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+      </class> <!-- com.telus.wnp.tests.MSSPartnersPageTest_BR3 -->
+      <class name="com.telus.wnp.tests.WLSC_169292_WNP_REG_ForeignToPMModifConfirm">
+        <test-method status="PASS" signature="BeforeMethod(org.testng.ITestContext)[pri:0, instance:com.telus.wnp.tests.WLSC_169292_WNP_REG_ForeignToPMModifConfirm@f9b7332]" name="BeforeMethod" is-config="true" duration-ms="2" started-at="2022-06-01T15:36:20 IST" finished-at="2022-06-01T15:36:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@239b0f7c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+      </class> <!-- com.telus.wnp.tests.WLSC_169292_WNP_REG_ForeignToPMModifConfirm -->
+      <class name="com.telus.wnp.tests.WLSC_169255_WNP_REG_TelusToForeignFallout">
+        <test-method status="PASS" signature="BeforeMethod(org.testng.ITestContext)[pri:0, instance:com.telus.wnp.tests.WLSC_169255_WNP_REG_TelusToForeignFallout@71104a4]" name="BeforeMethod" is-config="true" duration-ms="1" started-at="2022-06-01T15:36:20 IST" finished-at="2022-06-01T15:36:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@239b0f7c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+      </class> <!-- com.telus.wnp.tests.WLSC_169255_WNP_REG_TelusToForeignFallout -->
+      <class name="com.telus.wnp.tests.WLSC_169265_WNP_REG_OSPCancelTelusFromKoodo">
+        <test-method status="PASS" signature="BeforeMethod(org.testng.ITestContext)[pri:0, instance:com.telus.wnp.tests.WLSC_169265_WNP_REG_OSPCancelTelusFromKoodo@5217f3d0]" name="BeforeMethod" is-config="true" duration-ms="2" started-at="2022-06-01T15:36:20 IST" finished-at="2022-06-01T15:36:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@239b0f7c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+      </class> <!-- com.telus.wnp.tests.WLSC_169265_WNP_REG_OSPCancelTelusFromKoodo -->
+      <class name="com.telus.wnp.tests.SanityTest">
+        <test-method status="PASS" signature="BeforeMethod(org.testng.ITestContext)[pri:0, instance:com.telus.wnp.tests.SanityTest@6fff253c]" name="BeforeMethod" is-config="true" duration-ms="2" started-at="2022-06-01T15:36:20 IST" finished-at="2022-06-01T15:36:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@239b0f7c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+      </class> <!-- com.telus.wnp.tests.SanityTest -->
+      <class name="com.telus.wnp.tests.WLSWNP_1188_LSRPortOutMultipleRespIn90Mins">
+        <test-method status="PASS" signature="BeforeMethod(org.testng.ITestContext)[pri:0, instance:com.telus.wnp.tests.WLSWNP_1188_LSRPortOutMultipleRespIn90Mins@21c64522]" name="BeforeMethod" is-config="true" duration-ms="1" started-at="2022-06-01T15:36:20 IST" finished-at="2022-06-01T15:36:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@239b0f7c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+      </class> <!-- com.telus.wnp.tests.WLSWNP_1188_LSRPortOutMultipleRespIn90Mins -->
+      <class name="com.telus.wnp.tests.WLSWNP_584_WNP_REG_TelusToKPRE">
+        <test-method status="PASS" signature="BeforeMethod(org.testng.ITestContext)[pri:0, instance:com.telus.wnp.tests.WLSWNP_584_WNP_REG_TelusToKPRE@11acdc30]" name="BeforeMethod" is-config="true" duration-ms="1" started-at="2022-06-01T15:36:20 IST" finished-at="2022-06-01T15:36:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@239b0f7c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+      </class> <!-- com.telus.wnp.tests.WLSWNP_584_WNP_REG_TelusToKPRE -->
+      <class name="com.telus.wnp.tests.WLSC_169273_WNP_REG_ReceiveCancelSPFallout">
+        <test-method status="PASS" signature="BeforeMethod(org.testng.ITestContext)[pri:0, instance:com.telus.wnp.tests.WLSC_169273_WNP_REG_ReceiveCancelSPFallout@389adf1d]" name="BeforeMethod" is-config="true" duration-ms="2" started-at="2022-06-01T15:36:20 IST" finished-at="2022-06-01T15:36:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@239b0f7c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+      </class> <!-- com.telus.wnp.tests.WLSC_169273_WNP_REG_ReceiveCancelSPFallout -->
+      <class name="com.telus.wnp.tests.WLSC_169238_MSS_ModifyPACConfirmSMG">
+        <test-method status="PASS" signature="BeforeMethod(org.testng.ITestContext)[pri:0, instance:com.telus.wnp.tests.WLSC_169238_MSS_ModifyPACConfirmSMG@669513d8]" name="BeforeMethod" is-config="true" duration-ms="2" started-at="2022-06-01T15:36:20 IST" finished-at="2022-06-01T15:36:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@239b0f7c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+      </class> <!-- com.telus.wnp.tests.WLSC_169238_MSS_ModifyPACConfirmSMG -->
+      <class name="com.telus.wnp.tests.SmokeTests_portout">
+        <test-method status="PASS" signature="BeforeMethod(org.testng.ITestContext)[pri:0, instance:com.telus.wnp.tests.SmokeTests_portout@3954d008]" name="BeforeMethod" is-config="true" duration-ms="3" started-at="2022-06-01T15:36:20 IST" finished-at="2022-06-01T15:36:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@239b0f7c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+      </class> <!-- com.telus.wnp.tests.SmokeTests_portout -->
+      <class name="com.telus.wnp.tests.WLSC_169253_WNP_REG_KoodoToForeignPortOut">
+        <test-method status="PASS" signature="BeforeMethod(org.testng.ITestContext)[pri:0, instance:com.telus.wnp.tests.WLSC_169253_WNP_REG_KoodoToForeignPortOut@4a3e3e8b]" name="BeforeMethod" is-config="true" duration-ms="2" started-at="2022-06-01T15:36:20 IST" finished-at="2022-06-01T15:36:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@239b0f7c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+      </class> <!-- com.telus.wnp.tests.WLSC_169253_WNP_REG_KoodoToForeignPortOut -->
+      <class name="com.telus.wnp.tests.WLSC_169221_WNP_REG_AnHYCancelFromPAC">
+        <test-method status="PASS" signature="BeforeMethod(org.testng.ITestContext)[pri:0, instance:com.telus.wnp.tests.WLSC_169221_WNP_REG_AnHYCancelFromPAC@7f69d591]" name="BeforeMethod" is-config="true" duration-ms="2" started-at="2022-06-01T15:36:20 IST" finished-at="2022-06-01T15:36:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@239b0f7c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+      </class> <!-- com.telus.wnp.tests.WLSC_169221_WNP_REG_AnHYCancelFromPAC -->
+      <class name="com.telus.wnp.tests.WLSWNP_1186_No2FA_PreportEnabled">
+        <test-method status="PASS" signature="BeforeMethod(org.testng.ITestContext)[pri:0, instance:com.telus.wnp.tests.WLSWNP_1186_No2FA_PreportEnabled@5cc69cfe]" name="BeforeMethod" is-config="true" duration-ms="2" started-at="2022-06-01T15:36:20 IST" finished-at="2022-06-01T15:36:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@239b0f7c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+      </class> <!-- com.telus.wnp.tests.WLSWNP_1186_No2FA_PreportEnabled -->
+      <class name="com.telus.wnp.tests.WLSC_169390_WNP_REG_PublicMobileToForeign9B">
+        <test-method status="PASS" signature="BeforeMethod(org.testng.ITestContext)[pri:0, instance:com.telus.wnp.tests.WLSC_169390_WNP_REG_PublicMobileToForeign9B@b672aa8]" name="BeforeMethod" is-config="true" duration-ms="1" started-at="2022-06-01T15:36:20 IST" finished-at="2022-06-01T15:36:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@239b0f7c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+      </class> <!-- com.telus.wnp.tests.WLSC_169390_WNP_REG_PublicMobileToForeign9B -->
+      <class name="com.telus.wnp.tests.WLSC_169239_MSS_DDTEXPModifyPACConfirmSMG">
+        <test-method status="PASS" signature="BeforeMethod(org.testng.ITestContext)[pri:0, instance:com.telus.wnp.tests.WLSC_169239_MSS_DDTEXPModifyPACConfirmSMG@3a1d593e]" name="BeforeMethod" is-config="true" duration-ms="2" started-at="2022-06-01T15:36:20 IST" finished-at="2022-06-01T15:36:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@239b0f7c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+      </class> <!-- com.telus.wnp.tests.WLSC_169239_MSS_DDTEXPModifyPACConfirmSMG -->
+      <class name="com.telus.wnp.tests.WLSC_169216_WNP_REG_CancelWLNToTelusPortin">
+        <test-method status="PASS" signature="BeforeMethod(org.testng.ITestContext)[pri:0, instance:com.telus.wnp.tests.WLSC_169216_WNP_REG_CancelWLNToTelusPortin@ce5a68e]" name="BeforeMethod" is-config="true" duration-ms="2" started-at="2022-06-01T15:36:20 IST" finished-at="2022-06-01T15:36:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@239b0f7c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+      </class> <!-- com.telus.wnp.tests.WLSC_169216_WNP_REG_CancelWLNToTelusPortin -->
+      <class name="com.telus.wnp.tests.WLSC_169391_WNP_REG_PortOut_RR_NoSUP3On9A">
+        <test-method status="PASS" signature="BeforeMethod(org.testng.ITestContext)[pri:0, instance:com.telus.wnp.tests.WLSC_169391_WNP_REG_PortOut_RR_NoSUP3On9A@2fab4aff]" name="BeforeMethod" is-config="true" duration-ms="2" started-at="2022-06-01T15:36:20 IST" finished-at="2022-06-01T15:36:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@239b0f7c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+      </class> <!-- com.telus.wnp.tests.WLSC_169391_WNP_REG_PortOut_RR_NoSUP3On9A -->
+      <class name="com.telus.wnp.tests.WLSC_169241_WNP_REG_UndoCancelFromSOA">
+        <test-method status="PASS" signature="BeforeMethod(org.testng.ITestContext)[pri:0, instance:com.telus.wnp.tests.WLSC_169241_WNP_REG_UndoCancelFromSOA@361c294e]" name="BeforeMethod" is-config="true" duration-ms="1" started-at="2022-06-01T15:36:20 IST" finished-at="2022-06-01T15:36:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@239b0f7c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+      </class> <!-- com.telus.wnp.tests.WLSC_169241_WNP_REG_UndoCancelFromSOA -->
+      <class name="com.telus.wnp.tests.WLSC_169242_WNP_REG_UndoCancelModifySOA">
+        <test-method status="PASS" signature="BeforeMethod(org.testng.ITestContext)[pri:0, instance:com.telus.wnp.tests.WLSC_169242_WNP_REG_UndoCancelModifySOA@7859e786]" name="BeforeMethod" is-config="true" duration-ms="3" started-at="2022-06-01T15:36:20 IST" finished-at="2022-06-01T15:36:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@239b0f7c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+      </class> <!-- com.telus.wnp.tests.WLSC_169242_WNP_REG_UndoCancelModifySOA -->
+      <class name="com.telus.wnp.tests.WLSC_169244_WNP_REG_PortInModifyFromSOA">
+        <test-method status="PASS" signature="BeforeMethod(org.testng.ITestContext)[pri:0, instance:com.telus.wnp.tests.WLSC_169244_WNP_REG_PortInModifyFromSOA@285d851a]" name="BeforeMethod" is-config="true" duration-ms="2" started-at="2022-06-01T15:36:20 IST" finished-at="2022-06-01T15:36:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@239b0f7c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+      </class> <!-- com.telus.wnp.tests.WLSC_169244_WNP_REG_PortInModifyFromSOA -->
+      <class name="com.telus.wnp.tests.WLSC_169213_WNP_REG_AnHYCancelFromSMG">
+        <test-method status="PASS" signature="BeforeMethod(org.testng.ITestContext)[pri:0, instance:com.telus.wnp.tests.WLSC_169213_WNP_REG_AnHYCancelFromSMG@64bc21ac]" name="BeforeMethod" is-config="true" duration-ms="2" started-at="2022-06-01T15:36:20 IST" finished-at="2022-06-01T15:36:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@239b0f7c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+      </class> <!-- com.telus.wnp.tests.WLSC_169213_WNP_REG_AnHYCancelFromSMG -->
+      <class name="com.telus.wnp.tests.WLSC_169262_WNP_REG_PortoutSUP1Cancel">
+        <test-method status="PASS" signature="BeforeMethod(org.testng.ITestContext)[pri:0, instance:com.telus.wnp.tests.WLSC_169262_WNP_REG_PortoutSUP1Cancel@549621f3]" name="BeforeMethod" is-config="true" duration-ms="2" started-at="2022-06-01T15:36:20 IST" finished-at="2022-06-01T15:36:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@239b0f7c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+      </class> <!-- com.telus.wnp.tests.WLSC_169262_WNP_REG_PortoutSUP1Cancel -->
+      <class name="com.telus.wnp.tests.WLSC_169271_WNP_REG_SendCancelESPFDate">
+        <test-method status="PASS" signature="BeforeMethod(org.testng.ITestContext)[pri:0, instance:com.telus.wnp.tests.WLSC_169271_WNP_REG_SendCancelESPFDate@72e34f77]" name="BeforeMethod" is-config="true" duration-ms="2" started-at="2022-06-01T15:36:20 IST" finished-at="2022-06-01T15:36:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@239b0f7c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+      </class> <!-- com.telus.wnp.tests.WLSC_169271_WNP_REG_SendCancelESPFDate -->
+      <class name="com.telus.wnp.tests.WLSC_169274_WNP_REG_TelusToKoodoInterbrand">
+        <test-method status="PASS" signature="BeforeMethod(org.testng.ITestContext)[pri:0, instance:com.telus.wnp.tests.WLSC_169274_WNP_REG_TelusToKoodoInterbrand@77307458]" name="BeforeMethod" is-config="true" duration-ms="1" started-at="2022-06-01T15:36:20 IST" finished-at="2022-06-01T15:36:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@239b0f7c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+      </class> <!-- com.telus.wnp.tests.WLSC_169274_WNP_REG_TelusToKoodoInterbrand -->
+      <class name="com.telus.wnp.tests.WLSC_169223_WNP_REG_MSSCancelCloneConfirm">
+        <test-method status="PASS" signature="BeforeMethod(org.testng.ITestContext)[pri:0, instance:com.telus.wnp.tests.WLSC_169223_WNP_REG_MSSCancelCloneConfirm@1cb3ec38]" name="BeforeMethod" is-config="true" duration-ms="2" started-at="2022-06-01T15:36:20 IST" finished-at="2022-06-01T15:36:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@239b0f7c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+      </class> <!-- com.telus.wnp.tests.WLSC_169223_WNP_REG_MSSCancelCloneConfirm -->
+      <class name="com.telus.wnp.tests.WLSC_169276_WNP_REG_TelusPostpaidToRK">
+        <test-method status="PASS" signature="BeforeMethod(org.testng.ITestContext)[pri:0, instance:com.telus.wnp.tests.WLSC_169276_WNP_REG_TelusPostpaidToRK@290b1b2e]" name="BeforeMethod" is-config="true" duration-ms="2" started-at="2022-06-01T15:36:20 IST" finished-at="2022-06-01T15:36:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@239b0f7c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+      </class> <!-- com.telus.wnp.tests.WLSC_169276_WNP_REG_TelusPostpaidToRK -->
+      <class name="com.telus.wnp.tests.WLSC_169256_WNP_REG_TelusBXToForeignPortout">
+        <test-method status="PASS" signature="BeforeMethod(org.testng.ITestContext)[pri:0, instance:com.telus.wnp.tests.WLSC_169256_WNP_REG_TelusBXToForeignPortout@4985cbcb]" name="BeforeMethod" is-config="true" duration-ms="2" started-at="2022-06-01T15:36:20 IST" finished-at="2022-06-01T15:36:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@239b0f7c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+      </class> <!-- com.telus.wnp.tests.WLSC_169256_WNP_REG_TelusBXToForeignPortout -->
+      <class name="com.telus.wnp.tests.WLSC_169264_WNP_REG_TelusToForeignSUP2">
+        <test-method status="PASS" signature="BeforeMethod(org.testng.ITestContext)[pri:0, instance:com.telus.wnp.tests.WLSC_169264_WNP_REG_TelusToForeignSUP2@32232e55]" name="BeforeMethod" is-config="true" duration-ms="2" started-at="2022-06-01T15:36:20 IST" finished-at="2022-06-01T15:36:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@239b0f7c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+      </class> <!-- com.telus.wnp.tests.WLSC_169264_WNP_REG_TelusToForeignSUP2 -->
+      <class name="com.telus.wnp.tests.WLSC_169288_WNP_REG_ForeignToKPREICPTimer">
+        <test-method status="PASS" signature="BeforeMethod(org.testng.ITestContext)[pri:0, instance:com.telus.wnp.tests.WLSC_169288_WNP_REG_ForeignToKPREICPTimer@5db4c359]" name="BeforeMethod" is-config="true" duration-ms="2" started-at="2022-06-01T15:36:20 IST" finished-at="2022-06-01T15:36:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@239b0f7c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+      </class> <!-- com.telus.wnp.tests.WLSC_169288_WNP_REG_ForeignToKPREICPTimer -->
+      <class name="com.telus.wnp.tests.WLSC_169294_WNP_REG_PublicMobileToForeign">
+        <test-method status="PASS" signature="BeforeMethod(org.testng.ITestContext)[pri:0, instance:com.telus.wnp.tests.WLSC_169294_WNP_REG_PublicMobileToForeign@74cec793]" name="BeforeMethod" is-config="true" duration-ms="1" started-at="2022-06-01T15:36:20 IST" finished-at="2022-06-01T15:36:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@239b0f7c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+      </class> <!-- com.telus.wnp.tests.WLSC_169294_WNP_REG_PublicMobileToForeign -->
+      <class name="com.telus.wnp.tests.WLSC_169298_WNP_REG_KPREToForeignSUP1">
+        <test-method status="PASS" signature="BeforeMethod(org.testng.ITestContext)[pri:0, instance:com.telus.wnp.tests.WLSC_169298_WNP_REG_KPREToForeignSUP1@1bdf8190]" name="BeforeMethod" is-config="true" duration-ms="1" started-at="2022-06-01T15:36:20 IST" finished-at="2022-06-01T15:36:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@239b0f7c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+      </class> <!-- com.telus.wnp.tests.WLSC_169298_WNP_REG_KPREToForeignSUP1 -->
+      <class name="com.telus.wnp.tests.WLSC_169218_WNP_REG_WLNPortIn8AThenConfirm">
+        <test-method status="PASS" signature="BeforeMethod(org.testng.ITestContext)[pri:0, instance:com.telus.wnp.tests.WLSC_169218_WNP_REG_WLNPortIn8AThenConfirm@2f162cc0]" name="BeforeMethod" is-config="true" duration-ms="3" started-at="2022-06-01T15:36:20 IST" finished-at="2022-06-01T15:36:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@239b0f7c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+      </class> <!-- com.telus.wnp.tests.WLSC_169218_WNP_REG_WLNPortIn8AThenConfirm -->
+      <class name="com.telus.wnp.tests.WLSC_169393_WNP_REG_PublicMobilePortOutRej">
+        <test-method status="PASS" signature="BeforeMethod(org.testng.ITestContext)[pri:0, instance:com.telus.wnp.tests.WLSC_169393_WNP_REG_PublicMobilePortOutRej@6e46d9f4]" name="BeforeMethod" is-config="true" duration-ms="1" started-at="2022-06-01T15:36:20 IST" finished-at="2022-06-01T15:36:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@239b0f7c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+      </class> <!-- com.telus.wnp.tests.WLSC_169393_WNP_REG_PublicMobilePortOutRej -->
+      <class name="com.telus.wnp.tests.WLSC_169227_WNP_REG_PortInRRThenConfirm">
+        <test-method status="PASS" signature="BeforeMethod(org.testng.ITestContext)[pri:0, instance:com.telus.wnp.tests.WLSC_169227_WNP_REG_PortInRRThenConfirm@2cab9998]" name="BeforeMethod" is-config="true" duration-ms="2" started-at="2022-06-01T15:36:20 IST" finished-at="2022-06-01T15:36:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@239b0f7c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+      </class> <!-- com.telus.wnp.tests.WLSC_169227_WNP_REG_PortInRRThenConfirm -->
+      <class name="com.telus.wnp.tests.WLSC_169300_WNP_REG_KPREToForeign">
+        <test-method status="PASS" signature="BeforeMethod(org.testng.ITestContext)[pri:0, instance:com.telus.wnp.tests.WLSC_169300_WNP_REG_KPREToForeign@192f2f27]" name="BeforeMethod" is-config="true" duration-ms="1" started-at="2022-06-01T15:36:20 IST" finished-at="2022-06-01T15:36:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@239b0f7c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+      </class> <!-- com.telus.wnp.tests.WLSC_169300_WNP_REG_KPREToForeign -->
+      <class name="com.telus.wnp.tests.WLSC_169254_WNP_REG_TelusToForeignPortout">
+        <test-method status="PASS" signature="BeforeMethod(org.testng.ITestContext)[pri:0, instance:com.telus.wnp.tests.WLSC_169254_WNP_REG_TelusToForeignPortout@5af28b27]" name="BeforeMethod" is-config="true" duration-ms="1" started-at="2022-06-01T15:36:20 IST" finished-at="2022-06-01T15:36:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@239b0f7c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+      </class> <!-- com.telus.wnp.tests.WLSC_169254_WNP_REG_TelusToForeignPortout -->
+      <class name="com.telus.wnp.tests.WLSC_169278_POST2PRE_Migration">
+        <test-method status="PASS" signature="BeforeMethod(org.testng.ITestContext)[pri:0, instance:com.telus.wnp.tests.WLSC_169278_POST2PRE_Migration@47874b25]" name="BeforeMethod" is-config="true" duration-ms="1" started-at="2022-06-01T15:36:20 IST" finished-at="2022-06-01T15:36:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@239b0f7c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+      </class> <!-- com.telus.wnp.tests.WLSC_169278_POST2PRE_Migration -->
+      <class name="com.telus.wnp.tests.WLSC_169222_WNP_REG_PortinCancelCloneConfirm">
+        <test-method status="PASS" signature="BeforeMethod(org.testng.ITestContext)[pri:0, instance:com.telus.wnp.tests.WLSC_169222_WNP_REG_PortinCancelCloneConfirm@61078690]" name="BeforeMethod" is-config="true" duration-ms="2" started-at="2022-06-01T15:36:20 IST" finished-at="2022-06-01T15:36:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@239b0f7c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+      </class> <!-- com.telus.wnp.tests.WLSC_169222_WNP_REG_PortinCancelCloneConfirm -->
+      <class name="com.telus.wnp.tests.uReportTestClass">
+        <test-method status="PASS" signature="BeforeMethod(org.testng.ITestContext)[pri:0, instance:com.telus.wnp.tests.uReportTestClass@593e824f]" name="BeforeMethod" is-config="true" duration-ms="0" started-at="2022-06-01T15:36:20 IST" finished-at="2022-06-01T15:36:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@239b0f7c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+      </class> <!-- com.telus.wnp.tests.uReportTestClass -->
+      <class name="com.telus.wnp.tests.WLSWNP_1190_2FA_KPREPortOutToWLNFromLSR">
+        <test-method status="PASS" signature="BeforeMethod(org.testng.ITestContext)[pri:0, instance:com.telus.wnp.tests.WLSWNP_1190_2FA_KPREPortOutToWLNFromLSR@11dee337]" name="BeforeMethod" is-config="true" duration-ms="3" started-at="2022-06-01T15:36:20 IST" finished-at="2022-06-01T15:36:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@239b0f7c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+      </class> <!-- com.telus.wnp.tests.WLSWNP_1190_2FA_KPREPortOutToWLNFromLSR -->
+      <class name="com.telus.wnp.tests.WLSC_169266_WNP_REG_OSPCancelKoodoFromTelus">
+        <test-method status="PASS" signature="BeforeMethod(org.testng.ITestContext)[pri:0, instance:com.telus.wnp.tests.WLSC_169266_WNP_REG_OSPCancelKoodoFromTelus@37ebc9d8]" name="BeforeMethod" is-config="true" duration-ms="0" started-at="2022-06-01T15:36:20 IST" finished-at="2022-06-01T15:36:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@239b0f7c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+      </class> <!-- com.telus.wnp.tests.WLSC_169266_WNP_REG_OSPCancelKoodoFromTelus -->
+      <class name="com.telus.wnp.tests.WLSWNP_1187_No2FA_PreportEnabledFromLSR">
+        <test-method status="PASS" signature="BeforeMethod(org.testng.ITestContext)[pri:0, instance:com.telus.wnp.tests.WLSWNP_1187_No2FA_PreportEnabledFromLSR@29cfd92b]" name="BeforeMethod" is-config="true" duration-ms="2" started-at="2022-06-01T15:36:20 IST" finished-at="2022-06-01T15:36:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@239b0f7c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+      </class> <!-- com.telus.wnp.tests.WLSWNP_1187_No2FA_PreportEnabledFromLSR -->
+      <class name="com.telus.wnp.tests.WLSC_169219_WNP_REG_WLNKoodoPortInSUP2">
+        <test-method status="PASS" signature="BeforeMethod(org.testng.ITestContext)[pri:0, instance:com.telus.wnp.tests.WLSC_169219_WNP_REG_WLNKoodoPortInSUP2@5df417a7]" name="BeforeMethod" is-config="true" duration-ms="1" started-at="2022-06-01T15:36:20 IST" finished-at="2022-06-01T15:36:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@239b0f7c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+      </class> <!-- com.telus.wnp.tests.WLSC_169219_WNP_REG_WLNKoodoPortInSUP2 -->
+      <class name="com.telus.wnp.tests.WLSC_169289_WNP_REG_ForeignToKPREConfirm">
+        <test-method status="PASS" signature="BeforeMethod(org.testng.ITestContext)[pri:0, instance:com.telus.wnp.tests.WLSC_169289_WNP_REG_ForeignToKPREConfirm@209775a9]" name="BeforeMethod" is-config="true" duration-ms="1" started-at="2022-06-01T15:36:20 IST" finished-at="2022-06-01T15:36:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@239b0f7c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+      </class> <!-- com.telus.wnp.tests.WLSC_169289_WNP_REG_ForeignToKPREConfirm -->
+      <class name="com.telus.wnp.tests.WLSC_169228_WNP_REG_PortInRRThenConfirm">
+        <test-method status="PASS" signature="BeforeMethod(org.testng.ITestContext)[pri:0, instance:com.telus.wnp.tests.WLSC_169228_WNP_REG_PortInRRThenConfirm@2f7a7219]" name="BeforeMethod" is-config="true" duration-ms="2" started-at="2022-06-01T15:36:20 IST" finished-at="2022-06-01T15:36:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@239b0f7c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+      </class> <!-- com.telus.wnp.tests.WLSC_169228_WNP_REG_PortInRRThenConfirm -->
+      <class name="com.telus.wnp.tests.WLSWNP_1191_2FA_PMPortOutToWLNFromLSR">
+        <test-method status="PASS" signature="BeforeMethod(org.testng.ITestContext)[pri:0, instance:com.telus.wnp.tests.WLSWNP_1191_2FA_PMPortOutToWLNFromLSR@460f76a6]" name="BeforeMethod" is-config="true" duration-ms="4" started-at="2022-06-01T15:36:20 IST" finished-at="2022-06-01T15:36:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@239b0f7c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+      </class> <!-- com.telus.wnp.tests.WLSWNP_1191_2FA_PMPortOutToWLNFromLSR -->
+      <class name="com.telus.wnp.tests.WLSC_169217_WNP_REG_WLNPortIn8APACCancel">
+        <test-method status="PASS" signature="BeforeMethod(org.testng.ITestContext)[pri:0, instance:com.telus.wnp.tests.WLSC_169217_WNP_REG_WLNPortIn8APACCancel@9d157ff]" name="BeforeMethod" is-config="true" duration-ms="2" started-at="2022-06-01T15:36:20 IST" finished-at="2022-06-01T15:36:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@239b0f7c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+      </class> <!-- com.telus.wnp.tests.WLSC_169217_WNP_REG_WLNPortIn8APACCancel -->
+      <class name="com.telus.wnp.tests.WLSC_169304_WNP_REG_PortOutRejection9B">
+        <test-method status="PASS" signature="BeforeMethod(org.testng.ITestContext)[pri:0, instance:com.telus.wnp.tests.WLSC_169304_WNP_REG_PortOutRejection9B@c65a5ef]" name="BeforeMethod" is-config="true" duration-ms="1" started-at="2022-06-01T15:36:20 IST" finished-at="2022-06-01T15:36:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@239b0f7c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+      </class> <!-- com.telus.wnp.tests.WLSC_169304_WNP_REG_PortOutRejection9B -->
+      <class name="com.telus.wnp.tests.WLSC_169245_WNP_REG_ModifyPendingFromSOA">
+        <test-method status="PASS" signature="BeforeMethod(org.testng.ITestContext)[pri:0, instance:com.telus.wnp.tests.WLSC_169245_WNP_REG_ModifyPendingFromSOA@314b8f2d]" name="BeforeMethod" is-config="true" duration-ms="2" started-at="2022-06-01T15:36:20 IST" finished-at="2022-06-01T15:36:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@239b0f7c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+      </class> <!-- com.telus.wnp.tests.WLSC_169245_WNP_REG_ModifyPendingFromSOA -->
+      <class name="com.telus.wnp.tests.WLSC_169303_WNP_REG_PortOutModifyDDDTNSP">
+        <test-method status="PASS" signature="BeforeMethod(org.testng.ITestContext)[pri:0, instance:com.telus.wnp.tests.WLSC_169303_WNP_REG_PortOutModifyDDDTNSP@8a589a2]" name="BeforeMethod" is-config="true" duration-ms="2" started-at="2022-06-01T15:36:20 IST" finished-at="2022-06-01T15:36:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@239b0f7c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+      </class> <!-- com.telus.wnp.tests.WLSC_169303_WNP_REG_PortOutModifyDDDTNSP -->
+      <class name="com.telus.wnp.tests.WLSC_169250_WNP_REG_ForeignToKoodoSUP2">
+        <test-method status="PASS" signature="BeforeMethod(org.testng.ITestContext)[pri:0, instance:com.telus.wnp.tests.WLSC_169250_WNP_REG_ForeignToKoodoSUP2@7876d598]" name="BeforeMethod" is-config="true" duration-ms="1" started-at="2022-06-01T15:36:20 IST" finished-at="2022-06-01T15:36:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@239b0f7c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+      </class> <!-- com.telus.wnp.tests.WLSC_169250_WNP_REG_ForeignToKoodoSUP2 -->
+      <class name="com.telus.wnp.tests.WLSC_169248_WNP_REG_PortInIMEIModify">
+        <test-method status="PASS" signature="BeforeMethod(org.testng.ITestContext)[pri:0, instance:com.telus.wnp.tests.WLSC_169248_WNP_REG_PortInIMEIModify@5118388b]" name="BeforeMethod" is-config="true" duration-ms="1" started-at="2022-06-01T15:36:20 IST" finished-at="2022-06-01T15:36:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@239b0f7c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+      </class> <!-- com.telus.wnp.tests.WLSC_169248_WNP_REG_PortInIMEIModify -->
+      <class name="com.telus.wnp.tests.FixReviewComments">
+        <test-method status="PASS" signature="BeforeMethod(org.testng.ITestContext)[pri:0, instance:com.telus.wnp.tests.FixReviewComments@40dd3977]" name="BeforeMethod" is-config="true" duration-ms="437" started-at="2022-06-01T15:36:20 IST" finished-at="2022-06-01T15:36:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@239b0f7c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+      </class> <!-- com.telus.wnp.tests.FixReviewComments -->
+      <class name="com.telus.wnp.tests.WLSWNP_586_WNP_REG_KoodoIRToForeignPortout">
+        <test-method status="PASS" signature="BeforeMethod(org.testng.ITestContext)[pri:0, instance:com.telus.wnp.tests.WLSWNP_586_WNP_REG_KoodoIRToForeignPortout@4a8ab068]" name="BeforeMethod" is-config="true" duration-ms="1" started-at="2022-06-01T15:36:20 IST" finished-at="2022-06-01T15:36:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@239b0f7c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+      </class> <!-- com.telus.wnp.tests.WLSWNP_586_WNP_REG_KoodoIRToForeignPortout -->
+      <class name="com.telus.wnp.tests.WLSC_169297_WNP_REG_PublicMobileToForeign">
+        <test-method status="PASS" signature="BeforeMethod(org.testng.ITestContext)[pri:0, instance:com.telus.wnp.tests.WLSC_169297_WNP_REG_PublicMobileToForeign@4f8969b0]" name="BeforeMethod" is-config="true" duration-ms="2" started-at="2022-06-01T15:36:20 IST" finished-at="2022-06-01T15:36:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@239b0f7c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+      </class> <!-- com.telus.wnp.tests.WLSC_169297_WNP_REG_PublicMobileToForeign -->
+      <class name="com.telus.wnp.tests.WLSWNP_587_WNP_REG_TelusToPublicMobile">
+        <test-method status="PASS" signature="BeforeMethod(org.testng.ITestContext)[pri:0, instance:com.telus.wnp.tests.WLSWNP_587_WNP_REG_TelusToPublicMobile@1922e6d]" name="BeforeMethod" is-config="true" duration-ms="1" started-at="2022-06-01T15:36:20 IST" finished-at="2022-06-01T15:36:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@239b0f7c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+      </class> <!-- com.telus.wnp.tests.WLSWNP_587_WNP_REG_TelusToPublicMobile -->
+      <class name="com.telus.wnp.tests.WLSWNP_590_WNP_REG_ForeignToTelusCancel">
+        <test-method status="PASS" signature="BeforeMethod(org.testng.ITestContext)[pri:0, instance:com.telus.wnp.tests.WLSWNP_590_WNP_REG_ForeignToTelusCancel@74bdc168]" name="BeforeMethod" is-config="true" duration-ms="2" started-at="2022-06-01T15:36:20 IST" finished-at="2022-06-01T15:36:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@239b0f7c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+      </class> <!-- com.telus.wnp.tests.WLSWNP_590_WNP_REG_ForeignToTelusCancel -->
+      <class name="com.telus.wnp.tests.WLSC_169220_WNP_REG_AnHYKoodoSMGConfirm">
+        <test-method status="PASS" signature="BeforeMethod(org.testng.ITestContext)[pri:0, instance:com.telus.wnp.tests.WLSC_169220_WNP_REG_AnHYKoodoSMGConfirm@7c041b41]" name="BeforeMethod" is-config="true" duration-ms="2" started-at="2022-06-01T15:36:20 IST" finished-at="2022-06-01T15:36:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@239b0f7c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+      </class> <!-- com.telus.wnp.tests.WLSC_169220_WNP_REG_AnHYKoodoSMGConfirm -->
+      <class name="com.telus.wnp.tests.WLSC_169225_WNP_REG_ForeignToKoodoPortin">
+        <test-method status="PASS" signature="BeforeMethod(org.testng.ITestContext)[pri:0, instance:com.telus.wnp.tests.WLSC_169225_WNP_REG_ForeignToKoodoPortin@71c5b236]" name="BeforeMethod" is-config="true" duration-ms="2" started-at="2022-06-01T15:36:20 IST" finished-at="2022-06-01T15:36:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@239b0f7c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+      </class> <!-- com.telus.wnp.tests.WLSC_169225_WNP_REG_ForeignToKoodoPortin -->
+      <class name="com.telus.wnp.tests.WLSC_169246_WNP_REG_ModifyActiveFromSOA">
+        <test-method status="PASS" signature="BeforeMethod(org.testng.ITestContext)[pri:0, instance:com.telus.wnp.tests.WLSC_169246_WNP_REG_ModifyActiveFromSOA@664a9613]" name="BeforeMethod" is-config="true" duration-ms="1" started-at="2022-06-01T15:36:20 IST" finished-at="2022-06-01T15:36:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@239b0f7c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+      </class> <!-- com.telus.wnp.tests.WLSC_169246_WNP_REG_ModifyActiveFromSOA -->
+      <class name="com.telus.wnp.tests.WLSC_169392_WNP_REG_TelusPortOutRejected">
+        <test-method status="PASS" signature="BeforeMethod(org.testng.ITestContext)[pri:0, instance:com.telus.wnp.tests.WLSC_169392_WNP_REG_TelusPortOutRejected@ec0c838]" name="BeforeMethod" is-config="true" duration-ms="1" started-at="2022-06-01T15:36:20 IST" finished-at="2022-06-01T15:36:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@239b0f7c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+      </class> <!-- com.telus.wnp.tests.WLSC_169392_WNP_REG_TelusPortOutRejected -->
+      <class name="com.telus.wnp.tests.ForeignTN_Validation">
+        <test-method status="PASS" signature="BeforeMethod(org.testng.ITestContext)[pri:0, instance:com.telus.wnp.tests.ForeignTN_Validation@3a4e343]" name="BeforeMethod" is-config="true" duration-ms="4" started-at="2022-06-01T15:36:20 IST" finished-at="2022-06-01T15:36:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@239b0f7c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+      </class> <!-- com.telus.wnp.tests.ForeignTN_Validation -->
+      <class name="com.telus.wnp.tests.WLSC_169249_WNP_REG_PortInFalloutCancel">
+        <test-method status="PASS" signature="BeforeMethod(org.testng.ITestContext)[pri:0, instance:com.telus.wnp.tests.WLSC_169249_WNP_REG_PortInFalloutCancel@15a902e7]" name="BeforeMethod" is-config="true" duration-ms="1" started-at="2022-06-01T15:36:20 IST" finished-at="2022-06-01T15:36:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@239b0f7c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+      </class> <!-- com.telus.wnp.tests.WLSC_169249_WNP_REG_PortInFalloutCancel -->
+      <class name="com.telus.wnp.tests.MSSPartnersPageTest_BR">
+        <test-method status="PASS" signature="BeforeMethod(org.testng.ITestContext)[pri:0, instance:com.telus.wnp.tests.MSSPartnersPageTest_BR@6a1d204a]" name="BeforeMethod" is-config="true" duration-ms="3" started-at="2022-06-01T15:36:20 IST" finished-at="2022-06-01T15:36:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@239b0f7c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+      </class> <!-- com.telus.wnp.tests.MSSPartnersPageTest_BR -->
+      <class name="com.telus.wnp.tests.WLSC_169270_WNP_REG_SendCancellationClone">
+        <test-method status="PASS" signature="BeforeMethod(org.testng.ITestContext)[pri:0, instance:com.telus.wnp.tests.WLSC_169270_WNP_REG_SendCancellationClone@6e9319f]" name="BeforeMethod" is-config="true" duration-ms="2" started-at="2022-06-01T15:36:20 IST" finished-at="2022-06-01T15:36:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@239b0f7c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+      </class> <!-- com.telus.wnp.tests.WLSC_169270_WNP_REG_SendCancellationClone -->
+      <class name="com.telus.wnp.tests.WLSC_169240_WNP_REG_PortInModifyPACConfirm">
+        <test-method status="PASS" signature="BeforeMethod(org.testng.ITestContext)[pri:0, instance:com.telus.wnp.tests.WLSC_169240_WNP_REG_PortInModifyPACConfirm@4a8a60bc]" name="BeforeMethod" is-config="true" duration-ms="2" started-at="2022-06-01T15:36:20 IST" finished-at="2022-06-01T15:36:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@239b0f7c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+      </class> <!-- com.telus.wnp.tests.WLSC_169240_WNP_REG_PortInModifyPACConfirm -->
+      <class name="com.telus.wnp.tests.WLSC_169275_WNP_REG_KoodoToTelusInterbrand">
+        <test-method status="PASS" signature="BeforeMethod(org.testng.ITestContext)[pri:0, instance:com.telus.wnp.tests.WLSC_169275_WNP_REG_KoodoToTelusInterbrand@1fc0053e]" name="BeforeMethod" is-config="true" duration-ms="1" started-at="2022-06-01T15:36:20 IST" finished-at="2022-06-01T15:36:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@239b0f7c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+      </class> <!-- com.telus.wnp.tests.WLSC_169275_WNP_REG_KoodoToTelusInterbrand -->
+      <class name="com.telus.wnp.tests.WLSWNP_711_WNP_REG_PortinFromRKToTelus">
+        <test-method status="PASS" signature="BeforeMethod(org.testng.ITestContext)[pri:0, instance:com.telus.wnp.tests.WLSWNP_711_WNP_REG_PortinFromRKToTelus@644c78d4]" name="BeforeMethod" is-config="true" duration-ms="1" started-at="2022-06-01T15:36:20 IST" finished-at="2022-06-01T15:36:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@239b0f7c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+      </class> <!-- com.telus.wnp.tests.WLSWNP_711_WNP_REG_PortinFromRKToTelus -->
+      <class name="com.telus.wnp.tests.WLSWNP_1192_WNP_REG_KoodoPortInOOPSSMS">
+        <test-method status="PASS" signature="BeforeMethod(org.testng.ITestContext)[pri:0, instance:com.telus.wnp.tests.WLSWNP_1192_WNP_REG_KoodoPortInOOPSSMS@55f3c410]" name="BeforeMethod" is-config="true" duration-ms="1" started-at="2022-06-01T15:36:20 IST" finished-at="2022-06-01T15:36:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@239b0f7c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+      </class> <!-- com.telus.wnp.tests.WLSWNP_1192_WNP_REG_KoodoPortInOOPSSMS -->
+      <class name="com.telus.wnp.tests.WLSC_169296_WNP_REG_KoodoPrepaidToForeign">
+        <test-method status="PASS" signature="BeforeMethod(org.testng.ITestContext)[pri:0, instance:com.telus.wnp.tests.WLSC_169296_WNP_REG_KoodoPrepaidToForeign@6fefce9e]" name="BeforeMethod" is-config="true" duration-ms="1" started-at="2022-06-01T15:36:20 IST" finished-at="2022-06-01T15:36:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@239b0f7c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+      </class> <!-- com.telus.wnp.tests.WLSC_169296_WNP_REG_KoodoPrepaidToForeign -->
+      <class name="com.telus.wnp.tests.CheckCatchException">
+        <test-method status="PASS" signature="BeforeMethod(org.testng.ITestContext)[pri:0, instance:com.telus.wnp.tests.CheckCatchException@5fb97279]" name="BeforeMethod" is-config="true" duration-ms="27" started-at="2022-06-01T15:36:20 IST" finished-at="2022-06-01T15:36:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@239b0f7c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+      </class> <!-- com.telus.wnp.tests.CheckCatchException -->
+      <class name="com.telus.wnp.tests.WLSC_169224_WNP_REG_ForeignToTelusPortin">
+        <test-method status="PASS" signature="BeforeMethod(org.testng.ITestContext)[pri:0, instance:com.telus.wnp.tests.WLSC_169224_WNP_REG_ForeignToTelusPortin@403132fc]" name="BeforeMethod" is-config="true" duration-ms="2" started-at="2022-06-01T15:36:20 IST" finished-at="2022-06-01T15:36:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@239b0f7c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+      </class> <!-- com.telus.wnp.tests.WLSC_169224_WNP_REG_ForeignToTelusPortin -->
+    </test> <!-- WNPRegressionTests -->
+  </suite> <!-- WNPRegressionSuite -->
+</testng-results>
